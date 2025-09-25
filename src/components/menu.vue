@@ -52,6 +52,7 @@ const menu ={
         image:"/images/menu/caroline-attwood-bpPTlXWTOvg-unsplash.jpg",
         price: 1500,
         description: 'salmon with salad',
+        longDescription: "",
         category: 'food'
 
     },
