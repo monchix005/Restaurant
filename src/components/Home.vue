@@ -8,7 +8,7 @@
         <v-row>
          <v-carousel>
          <v-carousel-item src="/images/alan-hardman-SU1LFoeEUkk-unsplash.jpg"></v-carousel-item>
-         <v-carousel-item src="/images/victoria-shes-UC0HZdUitWY-unsplash.jpg"></v-carousel-item>
+         <v-carousel-item src="/images/alex-munsell-Yr4n8O_3UPc-unsplash.jpg"></v-carousel-item>
          <v-carousel-item src="/images/brina-blum-surQ2mkZNxw-unsplash.jpg"></v-carousel-item>
          <v-carousel-item src="/images/eaters-collective-12eHC6FxPyg-unsplash.jpg"></v-carousel-item>
             </v-carousel>
